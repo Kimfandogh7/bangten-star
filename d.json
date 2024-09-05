@@ -1,5 +1,12 @@
 [
-{
-  "link":"link"
-}
+  {
+    "title": "link1",
+    "description": "link1 description",
+    "post-url": "link1-url"
+  },
+  {
+    "title": "link2",
+    "description": "link2 description",
+    "post-url": "link2-url"
+  }
 ]
